@@ -15,9 +15,11 @@ First of all the installation of MongoDB was somewhat hard to understand. I had 
 ### Read
 
 SELECT * FROM inventory;
+
 <img width="367" alt="image" src="https://github.com/user-attachments/assets/a2bd6f88-baf7-4bc2-aa17-3f7a2efff7a7">
 
 SELECT * FROM inventory WHERE qty = 25;
+
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/55cfea96-2e73-4440-bb99-6034d186499a">
 
 ### Update
