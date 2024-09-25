@@ -35,6 +35,30 @@ SELECT * FROM inventory WHERE qty = 25;
 
 #### Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
-## Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
+Example 1
 
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/23533867-a271-4636-bcd1-92f5212b6f6d">
+
+Example 2
+
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/6dd58bb9-f1a9-4452-8d67-a9a9ce27deb8">
+
+
+My own additions:
+ Example 1 (Avg price per customer):
+ 
+  <img width="533" alt="image" src="https://github.com/user-attachments/assets/ba670c15-4e54-4353-a4f3-694dd16ebb01">
+
+ 
+ Example 2 (Add price):
+
+ <img width="546" alt="image" src="https://github.com/user-attachments/assets/fd5fe189-ad45-4d88-a9b0-159260a8eab6">
+
+
+
+## Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.
+The first examples additional operation will show what one costumer uses in average on the store, which can be fun to see the statistics of, also to see which costumer buys the more expensive items per usual while which other buys the cheaper ones. This can be good insight for the customer and the business keeping these records. Although this shouldn’t be viewed solely in isolation to get the full image of the buyers history and tendencies.  
+
+As for the second example, price was added to not only showcase the quantity, count and avarage for each item but also it´s costs. 
 ## Any pending issues with this assignment which you did not manage to solve
+No pending issues to my knowledge left.
