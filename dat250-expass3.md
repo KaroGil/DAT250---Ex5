@@ -4,6 +4,8 @@ First of all the installation of MongoDB was somewhat hard to understand. Here I
 ## Screenshots for:
 
 #### The correct validation of the installation package (https://docs.mongodb.com/manual/tutorial/verify-mongodb-packages/)
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/7a7270d8-6b6b-4066-b9f1-8e82c4996933">
+
 
 #### Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).
 
